@@ -20,7 +20,7 @@ Caso o usuário insira corretamente o caminho é mostrada a mensagem de 'Você c
 
 ![image](https://user-images.githubusercontent.com/80792096/170797749-18d5e151-4ee9-43e0-a8bc-5f67ea384761.png)
 
-O programa também identifica quando o usuário innsere um comando inválido:
+O programa também identifica quando o usuário insere um comando inválido:
 
 ![image](https://user-images.githubusercontent.com/80792096/170797527-ff584764-4d56-4c23-900e-55ddd60f74a7.png)
 
